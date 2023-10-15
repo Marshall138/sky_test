@@ -1,2 +1,2 @@
 print("remote")
-
+print("Local")
